@@ -1,0 +1,21 @@
+{
+  "name": "pwa-demo",
+  "version": "1.0.0",
+  "description": "testing pwa development",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@angular/cli": "9.1.12"
+  },
+  "scripts": {
+	"ng": "node_modules/.bin",
+	"start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
